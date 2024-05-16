@@ -1,6 +1,3 @@
-# oculoplastic_segmentation
-
-
 # Oculoplastic Disease Segmentation
 
 ## Overview
@@ -8,7 +5,7 @@ This repository contains code for segmentation of oculoplastic diseases using U-
 
 ## Key Features
 1. **Generic Segmentation of Oculoplastic Disease**:
-   - Focused on segmenting regions relevant to oculoplastic diseases.
+   - Focused on segmenting regions relevant to oculoplastic diseases. Semgentation masks are then used to predict perirobital distances with average accuracy of ~90% at sub mm scale.
    
 2. **Dataset**:
    - Trained on the CelebA-HQ dataset.
